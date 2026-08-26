@@ -1,1 +1,1 @@
-# Customer_Review_Sentiment_Analysis
+Customer Review Sentiment Analysis Project Overview This project analyzes customer reviews using Machine Learning and Natural Language Processing (NLP). It classifies reviews into Positive, Negative, and Neutral sentiments. Technologies Used Python Pandas NumPy Matplotlib Seaborn Scikit-learn NLP Project Workflow Data Collection Data Preprocessing Text Processing Model Training Sentiment Prediction Data Visualization
